@@ -1,0 +1,21 @@
+.button {
+    -fx-font-family: "Arial Black";
+-fx-font-size: 30px;
+-fx-background-color: transparent;
+
+}
+.label {
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 30px;
+    -fx-background-color: transparent;
+}
+
+#root {
+
+}
+#tlo1 {
+    -fx-background-image: url("fxml/snaketlo.jpg");
+}
+
+#Canvas
+{ background-image: url("fxml/tlodosnake.jpg"); }
